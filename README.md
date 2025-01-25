@@ -16,3 +16,5 @@ A Python-powered application for managing and processing PDF files. This app pro
 - **PDF Processing**: `groq`, `PyPDF2`
 - **Environment Configuration**: `python-dotenv`
 
+![ss1](https://github.com/user-attachments/assets/6e6bdcdf-f099-4340-89f6-3c5b51aeedec)
+![ss2](https://github.com/user-attachments/assets/230dd53b-16da-4bab-b8df-167a4439c6be)
